@@ -1,4 +1,4 @@
-# Mini-Editor-Of-Geometric-Shapes
+# Mini Editor Of Geometric Shapes
 
 <b>A real application in Java -- A mini editor of geometric shapes.</b></br>
 
